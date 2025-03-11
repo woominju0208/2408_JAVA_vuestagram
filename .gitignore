@@ -4,7 +4,7 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-# application.yml 정보 
+# application.yml 정보
 /src/main/resources/application.yml
 
 ### STS ###
